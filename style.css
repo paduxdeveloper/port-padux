@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    padding: 0; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.divmae{
+    margin-left: 500px;
+    display: flex;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    border-radius: 20px;
+   
+}
+.result{
+    padding: 40px;
+    border-radius: 30px;
+    background-color: rgb(98, 0, 255);
+}
+.summary{
+    padding: 30px;
+    border-radius: 40px;
+    width: 300px;
+    background-color: rgb(253, 252, 252);
+    
+}
+.circle{
+    background-color: rgba(52, 86, 161, 0.457);
+    border-radius:100%;
+    width: 140px;
+    height: 140px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+body{
+    text-align: center;
+    margin-top: 200px;
+    background-color: #f6f7f6;
+}
+.h1class{
+    color: white;
+    font-size: 50px;
+    padding-top: 20px;
+
+}
+.pci{
+    font-size: 14px;
+    color: white;
+    opacity: 50.6%;
+}
+.h1great{
+    color: white;
+    font-size: 25px;
+}
+.text{
+    color: rgba(255, 255, 255, 0.715);
+    font-weight: 400;
+}
+strong{
+    color:rgba(255, 255, 255, 0.715) ;
+    margin-top: 40px;
+}
+.posinput1{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(224, 195, 195, 0.300);
+    border-radius: 10px;
+    margin: 10px;
+}
+.posinput2{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(243, 243, 199,0.300);
+    border-radius: 10px;
+    margin: 10px;
+}
+.posinput3{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(207, 249, 207,0.300);
+    border-radius: 10px;
+    margin: 10px;
+}
+.posinput4{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(192, 192, 255, 0.300);
+    border-radius: 10px;
+    margin: 10px;
+}
+button{
+    margin-top: 20px;
+    width: 96%;
+    height: 50px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: rgb(59, 59, 81);
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+.sum1{
+    text-align: start;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.cor1{
+    color: rgba(244, 42, 42, 0.724);
+}
+.cor2{
+    color: rgb(216, 216, 95);
+}
+.cor3{
+    color: rgb(87, 173, 83);
+}
+.cor4{
+    color: rgb(103, 103, 238);
+}
+.summary strong  {
+    color: black;
+}
+.summary .barra100{
+    color: rgb(170, 168, 168);
+}

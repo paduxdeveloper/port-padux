@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.con{
+    display: inline;
+    margin: 120px auto;
+    padding: 23px 23px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #00ff08;
+    box-shadow: 2px 2px 4px white; 
+    background-color: rgb(24, 22, 22);  
+}
+.im{
+    margin-left: 130px;
+}
+.con h1{
+    color: #00ff08;
+}
+
+.con .conteudo {
+    margin-bottom: 70px;
+    font-size: 20px;
+}
+
